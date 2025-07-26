@@ -1,0 +1,29 @@
+﻿   Qt/MSBuild: 3.4.0.1
+  Reading Qt configuration (C:/Qt/6.10.0/msvc2022_64/bin/qmake)
+   Qt: 6.10.0
+  uic Jamming.ui
+  rcc Jamming.qrc
+  moc Jamming.h
+   RCC: Warning: No resources in 'C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.qrc'.
+  Jamming.cpp
+  main.cpp
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(96,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(155,57): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(519,53): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(634,57): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(658,53): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(694,53): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(725,53): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(839,57): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(863,53): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(899,53): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(946,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(1070,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(1114,48): warning C4305: '-=': truncation from 'double' to 'float'
+  qrc_Jamming.cpp
+  moc_Jamming.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 578 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Jamming.vcxproj -> C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\x64\Release\Jamming.exe

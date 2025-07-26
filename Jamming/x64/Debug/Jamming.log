@@ -1,0 +1,19 @@
+﻿   Qt/MSBuild: 3.4.0.1
+   Qt: 6.10.0
+  Jamming.cpp
+  main.cpp
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(96,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(155,57): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(515,53): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(610,57): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(632,53): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(665,53): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(693,53): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(807,57): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(831,53): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(867,53): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(913,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(1024,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\Jamming.cpp(1065,48): warning C4305: '-=': truncation from 'double' to 'float'
+  moc_Jamming.cpp
+  Jamming.vcxproj -> C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\Jamming\x64\Debug\Jamming.exe
