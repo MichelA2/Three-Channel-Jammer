@@ -1,0 +1,19 @@
+﻿  usb2any_helper.cpp
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\usb2any_helper\usb2any_helper\usb2anyLMX\USB2ANY_API_Defs.h(238,14): warning C4091: 'typedef ': ignored on left of 'Command' when no variable is declared
+  (compiling source file 'usb2any_helper.cpp')
+  
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\usb2any_helper\usb2any_helper\usb2anyLMX\USB2ANY_API_Defs.h(406,14): warning C4091: 'typedef ': ignored on left of 'GPIO_OutPinState' when no variable is declared
+  (compiling source file 'usb2any_helper.cpp')
+  
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\usb2any_helper\usb2any_helper\usb2anyLMX\USB2ANY_API_Defs.h(413,14): warning C4091: 'typedef ': ignored on left of 'GPIO_InPinState' when no variable is declared
+  (compiling source file 'usb2any_helper.cpp')
+  
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\usb2any_helper\usb2any_helper\usb2any_helper.cpp(185,65): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\usb2any_helper\usb2any_helper\usb2any_helper.cpp(376,59): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+usb2any_helper.obj : error LNK2001: unresolved external symbol __imp_u2aOpen
+usb2any_helper.obj : error LNK2001: unresolved external symbol __imp_u2aClose
+usb2any_helper.obj : error LNK2001: unresolved external symbol __imp_u2aSPI_WriteAndRead
+usb2any_helper.obj : error LNK2001: unresolved external symbol __imp_u2aSPI_Control
+usb2any_helper.obj : error LNK2001: unresolved external symbol __imp_u2aFindControllers
+usb2any_helper.obj : error LNK2001: unresolved external symbol __imp_u2aGetSerialNumber
+C:\Users\Michel Albrecht\Desktop\Final Project visual studio c++\usb2any_helper\usb2any_helper\x64\Release\usb2any_helper.exe : fatal error LNK1120: 6 unresolved externals
